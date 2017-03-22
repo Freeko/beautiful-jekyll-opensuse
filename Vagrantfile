@@ -6,7 +6,7 @@ $script_provision = <<SCRIPT
   
   curl -#LO https://rvm.io/mpapis.asc
   gpg --import mpapis.asc
-  curl -sSL https://get.rvm.io | bash -s stable --rails
+  curl -sSL https://get.rvm.io | bash -s latest --ruby=ruby-2.2 --rails
   source /usr/local/rvm/scripts/rvm
   
   cd /vagrant
