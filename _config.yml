@@ -1,6 +1,6 @@
 # --- Jekyll 3 Options --- #
 # jekyll-paginate needed by Jekyll 3, uncomment the line below if you're using Jekyll 3
-#gems: [jekyll-paginate]
+gems: [jekyll-paginate]
 
 # --- General options --- #
 
