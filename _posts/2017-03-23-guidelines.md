@@ -11,7 +11,7 @@ couple of rules.
 Mostly these rules really just ensure that the packaging quality is at high
 enough standard and that we have someone to contact if problems arise.
 
-So long story short, what is required from your buildservice submissions:
+So long story short, what is required from your buildservice submission:
 
  * Inherited packages from OBS must link to respective released versions (42.1 ffmpeg in our instance links to 42.1 ffmpeg in OBS)
  * All changes must be done in Devel project (Tumbleweed) via submit requests
