@@ -86,7 +86,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false # block comments to all blog posts
   -
     scope:
       path: "" # all files
