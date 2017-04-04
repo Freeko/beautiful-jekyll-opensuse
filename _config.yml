@@ -27,7 +27,7 @@ description: Educational project on multimedia and security for openSUSE
 
 # List of links in the navigation bar
 navbar-links:
-  About Project: "aboutme.html"
+  About Project: "aboutme"
   Services:
     - OBS: "https://obs.freeko.org"
     - Github: "https://github.com/Freeko/"
