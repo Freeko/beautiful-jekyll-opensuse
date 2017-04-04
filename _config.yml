@@ -8,7 +8,7 @@ gems: [jekyll-paginate]
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://www.freeko.org"
+url: "https://www.freeko.org"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -29,7 +29,7 @@ description: Educational project on multimedia and security for openSUSE
 navbar-links:
   About Project: "aboutme"
   Services:
-    - OBS: "https://obs.freeko.org"
+    - OBS: "https://build.freeko.org"
     - Github: "https://github.com/Freeko/"
     - Mailinglist: "https://lists.vpsfree.cz/listinfo/freeko"
   Report a bug: "https://github.com/Freeko/Issue-tracker/issues"
