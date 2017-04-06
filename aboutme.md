@@ -14,8 +14,8 @@ the provided software stack to better themselves and their skills.
 In order to achieve that, we also want the playground to be stable and reliable
 even for people interested in just using the stack rather than contributing.
 
-Or aim is to ensure stability and reliability by using the [maintenance process](https://en.opensuse.org/openSUSE:Maintenance_update_process)
-which will ensure a stable codebase for users from the stable distributions,
+Our aim is to ensure stability and reliability by using the [maintenance process](https://en.opensuse.org/openSUSE:Maintenance_update_process),
+which will help provide a solid codebase for users from the stable distributions,
 while allowing us to play (and break) the stack in our Devel repository that will
 be delivered to [openSUSE:Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed).
 

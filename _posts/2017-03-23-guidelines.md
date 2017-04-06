@@ -5,8 +5,8 @@ subtitle: Rules for contributing to our awesome project
 date: 2017-03-23
 ---
 
-In order to keep our project sane and usable for everyone we decided to set up
-couple of rules.
+In order to keep our project sane and usable for everyone, we decided to set up
+a couple of rules.
 
 Mostly these rules really just ensure that the packaging quality is at high
 enough standard and that we have someone to contact if problems arise.
