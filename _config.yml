@@ -32,6 +32,7 @@ navbar-links:
     - OBS: "https://build.freeko.org"
     - Github: "https://github.com/Freeko/"
     - Mailinglist: "https://lists.vpsfree.cz/listinfo/freeko"
+    - Download: "https://download.freeko.org/"
   Report a bug: "https://github.com/Freeko/Issue-tracker/issues"
 
 # Image to show in the navigation bar - image must be a square (width = height)
